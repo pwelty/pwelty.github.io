@@ -29,6 +29,8 @@ url: "https://pwelty.github.io" # the base hostname & protocol for your site, e.
 twitter_username: pauljwelty
 github_username:  pwelty
 
+google_analytics: "UA-204675-8"
+
 # Build settings
 theme: minima
 plugins:
